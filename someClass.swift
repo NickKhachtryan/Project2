@@ -3,4 +3,5 @@ struct SomeClass {
     var num = 10
     let strNew = ""
     let strSome = ""
+    let strNew3 = ""
 }
